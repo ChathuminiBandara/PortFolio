@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e043556a-dc72-4952-be5a-e02b2493876e" name="Changes" comment="Sectioned The Webpage">
+    <list default="true" id="e043556a-dc72-4952-be5a-e02b2493876e" name="Changes" comment="header done sketched">
       <change beforePath="$PROJECT_DIR$/HTML_Files/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_Files/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +86,7 @@
       <workItem from="1705853625171" duration="734000" />
       <workItem from="1706338564823" duration="791000" />
       <workItem from="1708173218409" duration="932000" />
-      <workItem from="1708174328746" duration="2179000" />
+      <workItem from="1708174328746" duration="2546000" />
     </task>
     <task id="LOCAL-00001" summary="Sectioned The Webpage">
       <option name="closed" value="true" />
@@ -96,7 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708176357710</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="header done sketched">
+      <option name="closed" value="true" />
+      <created>1708176721304</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708176721304</updated>
+    </task>
+    <task id="LOCAL-00003" summary="header done sketched">
+      <option name="closed" value="true" />
+      <created>1708176774588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708176774589</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sectioned The Webpage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sectioned The Webpage" />
+    <MESSAGE value="header done sketched" />
+    <option name="LAST_COMMIT_MESSAGE" value="header done sketched" />
   </component>
 </project>
