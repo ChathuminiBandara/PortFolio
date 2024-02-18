@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e043556a-dc72-4952-be5a-e02b2493876e" name="Changes" comment="Second Section Done sketched">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML_Files/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_Files/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="e043556a-dc72-4952-be5a-e02b2493876e" name="Changes" comment="3rd &amp; 4th sectioning done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +84,7 @@
       <workItem from="1705853625171" duration="734000" />
       <workItem from="1706338564823" duration="791000" />
       <workItem from="1708173218409" duration="932000" />
-      <workItem from="1708174328746" duration="3718000" />
+      <workItem from="1708174328746" duration="5550000" />
     </task>
     <task id="LOCAL-00001" summary="Sectioned The Webpage">
       <option name="closed" value="true" />
@@ -121,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708177259252</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3rd &amp; 4th sectioning done">
+      <option name="closed" value="true" />
+      <created>1708278003406</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708278003406</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +136,7 @@
     <MESSAGE value="Sectioned The Webpage" />
     <MESSAGE value="header done sketched" />
     <MESSAGE value="Second Section Done sketched" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Section Done sketched" />
+    <MESSAGE value="3rd &amp; 4th sectioning done" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd &amp; 4th sectioning done" />
   </component>
 </project>
