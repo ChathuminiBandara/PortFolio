@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e043556a-dc72-4952-be5a-e02b2493876e" name="Changes" comment="3rd &amp; 4th sectioning done" />
+    <list default="true" id="e043556a-dc72-4952-be5a-e02b2493876e" name="Changes" comment="t9h section /  Blog Post section done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML_Files/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_Files/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +88,7 @@
       <workItem from="1706338564823" duration="791000" />
       <workItem from="1708173218409" duration="932000" />
       <workItem from="1708174328746" duration="5550000" />
+      <workItem from="1708278167101" duration="3092000" />
     </task>
     <task id="LOCAL-00001" summary="Sectioned The Webpage">
       <option name="closed" value="true" />
@@ -126,7 +130,63 @@
       <option name="project" value="LOCAL" />
       <updated>1708278003406</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="why me section done">
+      <option name="closed" value="true" />
+      <created>1708278389786</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708278389786</updated>
+    </task>
+    <task id="LOCAL-00007" summary="my edu section done">
+      <option name="closed" value="true" />
+      <created>1708278551872</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708278551872</updated>
+    </task>
+    <task id="LOCAL-00008" summary="6th section done">
+      <option name="closed" value="true" />
+      <created>1708279529875</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708279529875</updated>
+    </task>
+    <task id="LOCAL-00009" summary="7th section / download cv done">
+      <option name="closed" value="true" />
+      <created>1708279770519</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708279770519</updated>
+    </task>
+    <task id="LOCAL-00010" summary="8th section /  gallery done">
+      <option name="closed" value="true" />
+      <created>1708279925313</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708279925313</updated>
+    </task>
+    <task id="LOCAL-00011" summary="8th section /  ACHIEVEMENTS done">
+      <option name="closed" value="true" />
+      <created>1708280085871</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708280085871</updated>
+    </task>
+    <task id="LOCAL-00012" summary="t9h section /  Blog Post section done">
+      <option name="closed" value="true" />
+      <created>1708280845657</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708280845657</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +197,13 @@
     <MESSAGE value="header done sketched" />
     <MESSAGE value="Second Section Done sketched" />
     <MESSAGE value="3rd &amp; 4th sectioning done" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd &amp; 4th sectioning done" />
+    <MESSAGE value="why me section done" />
+    <MESSAGE value="my edu section done" />
+    <MESSAGE value="6th section done" />
+    <MESSAGE value="7th section / download cv done" />
+    <MESSAGE value="8th section /  gallery done" />
+    <MESSAGE value="8th section /  ACHIEVEMENTS done" />
+    <MESSAGE value="t9h section /  Blog Post section done" />
+    <option name="LAST_COMMIT_MESSAGE" value="t9h section /  Blog Post section done" />
   </component>
 </project>
