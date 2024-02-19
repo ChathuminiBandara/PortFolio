@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e043556a-dc72-4952-be5a-e02b2493876e" name="Changes" comment="10th section /  projects section done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e043556a-dc72-4952-be5a-e02b2493876e" name="Changes" comment="11th section /  WANNA BE IN TOUCH section done">
       <change beforePath="$PROJECT_DIR$/HTML_Files/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_Files/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +87,7 @@
       <workItem from="1706338564823" duration="791000" />
       <workItem from="1708173218409" duration="932000" />
       <workItem from="1708174328746" duration="5550000" />
-      <workItem from="1708278167101" duration="3753000" />
+      <workItem from="1708278167101" duration="4111000" />
     </task>
     <task id="LOCAL-00001" summary="Sectioned The Webpage">
       <option name="closed" value="true" />
@@ -194,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708281384052</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="11th section /  WANNA BE IN TOUCH section done">
+      <option name="closed" value="true" />
+      <created>1708350374152</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708350374152</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +220,7 @@
     <MESSAGE value="8th section /  ACHIEVEMENTS done" />
     <MESSAGE value="t9h section /  Blog Post section done" />
     <MESSAGE value="10th section /  projects section done" />
-    <option name="LAST_COMMIT_MESSAGE" value="10th section /  projects section done" />
+    <MESSAGE value="11th section /  WANNA BE IN TOUCH section done" />
+    <option name="LAST_COMMIT_MESSAGE" value="11th section /  WANNA BE IN TOUCH section done" />
   </component>
 </project>
