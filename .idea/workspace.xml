@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e043556a-dc72-4952-be5a-e02b2493876e" name="Changes" comment="12th section / Footer Done">
+    <list default="true" id="e043556a-dc72-4952-be5a-e02b2493876e" name="Changes" comment="Spaces between the sections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML_Files/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_Files/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,8 @@
       <workItem from="1706338564823" duration="791000" />
       <workItem from="1708173218409" duration="932000" />
       <workItem from="1708174328746" duration="5550000" />
-      <workItem from="1708278167101" duration="5342000" />
+      <workItem from="1708278167101" duration="9022000" />
+      <workItem from="1708743146751" duration="929000" />
     </task>
     <task id="LOCAL-00001" summary="Sectioned The Webpage">
       <option name="closed" value="true" />
@@ -217,7 +219,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708351365381</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Spaces between the sections">
+      <option name="closed" value="true" />
+      <created>1708441302807</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1708441302807</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Spaces between the sections">
+      <option name="closed" value="true" />
+      <created>1708530709735</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1708530709736</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +256,7 @@
     <MESSAGE value="10th section /  projects section done" />
     <MESSAGE value="11th section /  WANNA BE IN TOUCH section done" />
     <MESSAGE value="12th section / Footer Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="12th section / Footer Done" />
+    <MESSAGE value="Spaces between the sections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spaces between the sections" />
   </component>
 </project>
