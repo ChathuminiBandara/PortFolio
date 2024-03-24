@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e043556a-dc72-4952-be5a-e02b2493876e" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/HTML_Files/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML_Files/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML_Files/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="e043556a-dc72-4952-be5a-e02b2493876e" name="Changes" comment="icons + images added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Chathumini/Documents/Intellij-files/PortFolio/HTML_Files",
+    "last_opened_file_path": "C:/Users/Chathumini/Documents/Intellij-files/PortFolio/photos",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -73,6 +69,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Chathumini\Documents\Intellij-files\PortFolio\photos" />
+      <recent name="C:\Users\Chathumini\Documents\Intellij-files\PortFolio\icon" />
       <recent name="C:\Users\Chathumini\Documents\Intellij-files\PortFolio\HTML_Files" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -97,6 +95,7 @@
       <workItem from="1708743146751" duration="929000" />
       <workItem from="1709645167895" duration="98000" />
       <workItem from="1710154053976" duration="1026000" />
+      <workItem from="1711121565291" duration="1360000" />
     </task>
     <task id="LOCAL-00001" summary="Sectioned The Webpage">
       <option name="closed" value="true" />
@@ -250,7 +249,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709645194954</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="normalize.css">
+      <option name="closed" value="true" />
+      <created>1711121056458</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1711121056458</updated>
+    </task>
+    <task id="LOCAL-00021" summary="icons + images added">
+      <option name="closed" value="true" />
+      <created>1711124049695</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1711124049695</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -273,6 +288,8 @@
     <MESSAGE value="12th section / Footer Done" />
     <MESSAGE value="Spaces between the sections" />
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="normalize.css" />
+    <MESSAGE value="icons + images added" />
+    <option name="LAST_COMMIT_MESSAGE" value="icons + images added" />
   </component>
 </project>
